@@ -96,3 +96,9 @@ a:hover {
 .bd-mode-toggle {
   z-index: 1500;
 }
+
+
+/* Background special class */
+.background-coffee-style {
+  background-color: #c0ffee;
+}
